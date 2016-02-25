@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 public class NewTest {
 	@Test
 	public void TC_1() {
-		System.out.println("Hello Test 1.2.0.0");
+		System.out.println("Hello Test 1.2.1.0");
 
 		// System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		// WebDriver driver = new ChromeDriver();
